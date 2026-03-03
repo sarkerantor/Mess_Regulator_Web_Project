@@ -8,7 +8,7 @@ This project was developed as part of our Web Engineering course.
 
 🚀 Live Demo
 
-🔗 https://mindcanvas.rf.gd/
+🔗 https://antor.kesug.com
 
 🎯 Project Goals
 
